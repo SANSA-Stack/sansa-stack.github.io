@@ -1,4 +1,4 @@
 # sansa-stack.github.io
 Sansa Stack Landing Page
 
-Please visit [/SANSA-Stack](/SANSA-Stack)
+This page is merely a redirect to [https://sansa-stack.github.io/SANSA-Stack/](https://sansa-stack.github.io/SANSA-Stack/)
